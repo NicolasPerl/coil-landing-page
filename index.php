@@ -34,8 +34,8 @@
                 <div class="loginButtons">
                     <img src="images/landing-page-logo.png" id="landing-page-logo" alt="coil logo">
                     <nav class="cl-effect-1">
-                        <a href="http://www.coilapp.com/">login</a>
-                        <a href="http://www.coilapp.com/sign-up">signup</a>
+                        <a href="http://coilapp.com:8080/">login</a>
+                        <a href="http://coilapp.com:8080/sign-up">signup</a>
                     </nav>
                     <!--
                     <a class="button" href="#" id="loginButton"><strong>login</strong></a>     

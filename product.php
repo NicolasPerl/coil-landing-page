@@ -50,8 +50,8 @@
               <nav class="cl-effect-1">
                   <a href="windows/index.html">gurus</a>
                   <a href="/proof.php">inspiration</a>
-                  <a href="http://www.coilapp.com/">login</a>
-                  <a href="http://www.coilapp.com/sign-up">signup</a>
+                  <a href="http://coilapp.com:8080/">login</a>
+                  <a href="http://coilapp.com:8080/sign-up">signup</a>
               </nav>
             </div>  
           </div>
